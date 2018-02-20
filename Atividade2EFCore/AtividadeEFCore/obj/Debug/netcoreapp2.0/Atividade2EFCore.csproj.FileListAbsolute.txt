@@ -1,0 +1,8 @@
+C:\Users\Marcia Andrea\source\repos\Atividade1\AtividadeEFCore\bin\Debug\netcoreapp2.0\Atividade2EFCore.deps.json
+C:\Users\Marcia Andrea\source\repos\Atividade1\AtividadeEFCore\bin\Debug\netcoreapp2.0\Atividade2EFCore.runtimeconfig.json
+C:\Users\Marcia Andrea\source\repos\Atividade1\AtividadeEFCore\bin\Debug\netcoreapp2.0\Atividade2EFCore.runtimeconfig.dev.json
+C:\Users\Marcia Andrea\source\repos\Atividade1\AtividadeEFCore\bin\Debug\netcoreapp2.0\Atividade2EFCore.dll
+C:\Users\Marcia Andrea\source\repos\Atividade1\AtividadeEFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.csprojResolveAssemblyReference.cache
+C:\Users\Marcia Andrea\source\repos\Atividade1\AtividadeEFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Marcia Andrea\source\repos\Atividade1\AtividadeEFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.AssemblyInfoInputs.cache
+C:\Users\Marcia Andrea\source\repos\Atividade1\AtividadeEFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.AssemblyInfo.cs

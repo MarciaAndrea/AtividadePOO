@@ -1,0 +1,9 @@
+C:\Users\Marcia Andrea\source\repos\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.deps.json
+C:\Users\Marcia Andrea\source\repos\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.dll
+C:\Users\Marcia Andrea\source\repos\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.pdb
+C:\Users\Marcia Andrea\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.csprojResolveAssemblyReference.cache
+C:\Users\Marcia Andrea\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.csproj.CoreCompileInputs.cache
+C:\Users\Marcia Andrea\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.AssemblyInfoInputs.cache
+C:\Users\Marcia Andrea\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.AssemblyInfo.cs
+C:\Users\Marcia Andrea\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.dll
+C:\Users\Marcia Andrea\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.pdb
